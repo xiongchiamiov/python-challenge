@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+# http://www.pythonchallenge.com/pc/def/equality.html
 
 from re import findall, search
 

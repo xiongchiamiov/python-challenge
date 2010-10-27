@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+# http://www.pythonchallenge.com/pc/def/map.html
 
 # k -> m    11 -> 13
 # o -> q    15 -> 17
